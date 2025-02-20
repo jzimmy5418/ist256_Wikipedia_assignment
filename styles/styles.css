@@ -1,0 +1,10 @@
+table{
+    border: solid 2px #000;
+    background-color: lightgray;
+    padding: 5px;
+    float: right;
+}
+
+table tr td table{
+    border: none;
+}
